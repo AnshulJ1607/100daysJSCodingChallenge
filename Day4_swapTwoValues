@@ -1,5 +1,5 @@
 //taking input from user
-
+const prompt=require("prompt-sync")()
 let a =prompt("Enter the first variable: ");
 let b =prompt("Enter the second variable: ");
 
