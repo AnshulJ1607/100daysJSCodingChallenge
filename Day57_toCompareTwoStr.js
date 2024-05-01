@@ -1,4 +1,5 @@
-// JavaScript Program to Check Whether a String Contains a Substring
+// JavaScript Program to Compare Two Strings
+
 
 const str1 = 'JavaScript Program';
 const str2 = 'javascript program';
